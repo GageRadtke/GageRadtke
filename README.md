@@ -2,12 +2,23 @@
 
 # <a href="https://www.linkedin.com/in/gagekradtke/">Cybersecurity Professional</a> Previously Journeyman Electrician</h1>
 
-<h5>I am a dedicated problem solver with a passion for cybersecurity, I am driven by a commitment to protecting individuals and organizations from digital harm. My analytical mind and relentless pursuit of knowledge enable me to identify and mitigate threats with precision. The intersection of cybersecurity and law enforcement aligns perfectly with my desire to uphold justice and maintain order in the digital realm. I am eager to leverage my skills to out think and outmaneuver emerging threats, contributing to a safer digital future</h5>
+<h6>I am a dedicated problem solver with a passion for cybersecurity, I am driven by a commitment to protecting individuals and organizations from digital harm. My analytical mind and relentless pursuit of knowledge enable me to identify and mitigate threats with precision. The intersection of cybersecurity and law enforcement aligns perfectly with my desire to uphold justice and maintain order in the digital realm. I am eager to leverage my skills to out think and outmaneuver emerging threats, contributing to a safer digital future</h6>
+
+# Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| s  | [ Semester Project](https://github.com/)|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 # Cyber Security projects:
 
 - <b>Build a Ecommerce business and create a Cybersecurity Program and create Policies </b>
-   - [Cybersecurity & policies Semester Project](https://github.com/jose)
+   - [Cybersecurity & policies Semester Project](https://github.com/GageRadtke/Com470SemesterProject)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadak4) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
