@@ -5,7 +5,7 @@
 <h1> <a href="https://www.linkedin.com/in/gagekradtke/">Cybersecurity Professional</a><br>
 Previously Journeyman Electrician</h1>
 
-<h2>I am a dedicated problem solver with a passion for cybersecurity, I am driven by a commitment to protecting individuals and organizations from digital harm. My analytical mind and relentless pursuit of knowledge enable me to identify and mitigate threats with precision. The intersection of cybersecurity and law enforcement aligns perfectly with my desire to uphold justice and maintain order in the digital realm. I am eager to leverage my skills to outthink and outmaneuver emerging threats, contributing to a safer digital future</h2>
+<h2>I am a dedicated problem solver with a passion for cybersecurity, I am driven by a commitment to protecting individuals and organizations from digital harm. My analytical mind and relentless pursuit of knowledge enable me to identify and mitigate threats with precision. The intersection of cybersecurity and law enforcement aligns perfectly with my desire to uphold justice and maintain order in the digital realm. I am eager to leverage my skills to out think and outmaneuver emerging threats, contributing to a safer digital future</h2>
 
 <h3> Languages Used <br>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
