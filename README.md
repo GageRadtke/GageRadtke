@@ -10,10 +10,10 @@
 |-----------------------------------------------|----------------------------|
 | s  | [ Semester Project](https://github.com/)|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Security Automation with Shuffle SOAR         | |
+| Incident Response Planning and Execution      | S|
+| Case Management with TheHive                  | S|
+| Scripting and Automation for Threat Mitigation | S|
 
 # Cyber Security projects:
 
@@ -22,10 +22,10 @@
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadak4) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmad-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/rShell)
-  - [Active Directory Bulk User Creation](https://github.com/_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/rity-FIM)
+  - [Windows E](https://github.com/)
+  - [JWipe (Disk Wiping Utility)](https://githubhell)
+  - [Active Directory Bulk User Creation](https://gith/_PS)
+  - [FIM (File Integrity Monitor)](https://gitcom/rity-FIM)
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/OC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/C)
@@ -60,9 +60,16 @@ Additionally, it has paved the way for me to pursue one of the entry-level follo
 * IT Security Analyst
 * Cyber Defense Analyst
 
-### Skills  
+### Training
+Mastercard Cybersecurity virtual experience program on Forage - February 2025
+ * Completed a job simulation where I served as an analyst on Mastercard’s
+   Security Awareness Team 
+ * Helped identify and report security threats such as phishing 
+ * Analyzed and identified which areas of the business needed more robust
+   security training and implemented training courses and procedures for those
+   teams
  
-### Tools 
+### Trade Tools 
 Several tools that I used: 
 * Google Workspace (Drive, Docs, Sheets, Slides)
 * Microsoft office Suite (All)
@@ -76,6 +83,7 @@ Several tools that I used:
 * Splunk
 * Suricata
 * wuzah
+* wifite
   
 ### Languages Used
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
