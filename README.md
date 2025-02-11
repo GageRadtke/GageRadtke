@@ -4,6 +4,13 @@
 
 <h6>I am a dedicated problem solver with a passion for cybersecurity, I am driven by a commitment to protecting individuals and organizations from digital harm. My analytical mind and relentless pursuit of knowledge enable me to identify and mitigate threats with precision. The intersection of cybersecurity and law enforcement aligns perfectly with my desire to uphold justice and maintain order in the digital realm. I am eager to leverage my skills to out think and outmaneuver emerging threats, contributing to a safer digital future</h6>
 
+
+
+
+My name is Gage Radtke. I am current Student at Saint Leo University working to complete my Bachelors in Cybersecurity. Then most likely finish off my Bachelors in Computer Science. I am a veteran and not currently working in the field. As I near the end of my professional schooling. I have been in the process of applying for different interships and job opportunities.
+
+At Home I maintain my home network which consists of 1 pfSense firewall, 1 ngix webserver with reverse proxy to access a nas. 1 3 node proxmox cluster with High avalibility set up, 6 personal computers and 2 printers in their own Vlan, 1 Vland for my media devices such as Tv's ect, 1 Vlan for Iot Devices to communicate amongst themselves, 1 Vlan for a 3CX phone system (I put random phones around the house for fun), 1 Vlan for Security cameras internal network only. My home Hardware does include 2 unifi switches and a unifi WAP
+
 # Skills
 
 | Skill                                         | Associated Project         |
@@ -34,7 +41,6 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/)
  
 
-## Professional Statements
 I am Gage Radtke. I am current Student at Saint Leo University working to complete my Bachelors in Cybersecurity. Then most likely finish off my Bachelors in Computer Science. I am a veteran using educational benifiets at the moment and not currently working in the field. As I near the end of my professional schooling. I have been in the process of applying for different interships and job opportunities. 
 
 Recently, I completed the Google Ai Essentials and Cybersecurity Professional Certificate to pursue my passion for technology and Cybersecurity. The Google Ai and Cybersecurity Professional Certificate have prepared me for industry-ready jobs. My ultimate goal is to become a Security Analyst or forensic investigator. This role suits me because I have strong analytical abilities, persistence, eagerness to learn, a can-do attitude, problem-solving skills, communication skills to address problems and emerging threats, and previous law enforcement type background and studies. 
