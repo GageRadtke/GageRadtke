@@ -26,7 +26,7 @@
 
 &emsp; I am current Student at Saint Leo University working to complete my Bachelors in Cybersecurity. Then once completed I will most likely return to Wilmington University to finish off my Bachelors in Computer Science. I am a veteran and not currently working in the field. As I near the end of my professional schooling. I have been in the process of applying for different interships and job opportunities.
 
-&emsp; At Home I maintain my home network which consists of 1) pfSense security device, 1) NGINX reverse proxy VM to create a secure home lan with certificates. 1) 3 node proxmox cluster Bulit on three 6th gen intel computers that has high avalibility set up, 1) Home bulit Nas on a 13th gen intel, 6) personal computers two home built, and 2 printers My home Hardware does include unifi switches and a unifi WAP which allows me to learn the unifi ecosystem. Some off the popular software I use is home assistiant, zabbix, wazuh, nextcloud, piehole, and many others.
+&emsp; At Home I maintain my home network which consists of 1) pfSense security device, 1) NGINX reverse proxy VM to create a secure home lan with certificates. 1) 3 node proxmox cluster Bulit on three 6th gen intel computers that has high avalibility set up, 1) Home bulit Nas on a 13th gen intel, 6) personal computers two home built, and a Minecraft Server I host for my daughter and her friends. My home Hardware does include unifi switches and a unifi WAP which allows me to learn the unifi ecosystem. Some off the popular software I use is home assistiant, zabbix, wazuh, nextcloud, piehole, and many others.
 
 
 
