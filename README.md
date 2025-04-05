@@ -1,14 +1,14 @@
 ## Hi there 👋 I'm Gage
 
-# <a href="https://www.linkedin.com/in/gagekradtke/">Cybersecurity Professional</a> Previously Journeyman Electrician</h1>
+# Cybersecurity Professional Previously Journeyman Electrician</h1>
 
 <h6><i>I am a dedicated problem solver with a passion for cybersecurity, I am driven by a commitment to protecting individuals and organizations from digital harm. My analytical mind and relentless pursuit of knowledge enable me to identify and mitigate threats with precision. The intersection of cybersecurity and law enforcement aligns perfectly with my desire to uphold justice and maintain order in the digital realm. I am eager to leverage my skills to out think and outmaneuver emerging threats, contributing to a safer digital future</i></h6>
 
 
 
-&emsp; My name is Gage Radtke. I am current Student at Saint Leo University working to complete my Bachelors in Cybersecurity. Then once completed I will most likely return to wilmington university to finish off my Bachelors in Computer Science. I am a veteran and not currently working in the field. As I near the end of my professional schooling. I have been in the process of applying for different interships and job opportunities.
+&emsp; I am current Student at Saint Leo University working to complete my Bachelors in Cybersecurity. Then once completed I will most likely return to Wilmington University to finish off my Bachelors in Computer Science. I am a veteran and not currently working in the field. As I near the end of my professional schooling. I have been in the process of applying for different interships and job opportunities.
 
-At Home I maintain my home network which consists of 1) pfSense firewall on a security device, 1) NGINX reverse proxy to create a secure home lan with certificates. 1) 3 node proxmox cluster Bulit on three 6th gen intel computers that has high avalibility set up, 1) Home bulit Nas on a 13th gen intel, 6) personal computers two home built, and 2 printers in their own Vlan, 1 Vlan for my media devices such as Tv's ect, 1 Vlan for Iot Devices to communicate amongst themselves, 1 Vlan for a 3CX phone system (I put random phones around the house for fun), 1 Vlan for Security cameras internal network only. My home Hardware does include unifi switches and a unifi WAP which allows me to learn the unifi ecosystem. Some off the popular software I use is home assistiant, zabbix, wazuh, nextcloud, piehole, and many others.
+At Home I maintain my home network which consists of 1) pfSense security device, 1) NGINX reverse proxy VM to create a secure home lan with certificates. 1) 3 node proxmox cluster Bulit on three 6th gen intel computers that has high avalibility set up, 1) Home bulit Nas on a 13th gen intel, 6) personal computers two home built, and 2 printers My home Hardware does include unifi switches and a unifi WAP which allows me to learn the unifi ecosystem. Some off the popular software I use is home assistiant, zabbix, wazuh, nextcloud, piehole, and many others.
 
 Recently, I completed the Google Ai Essentials and Cybersecurity Professional Certificate to pursue my passion for technology and Cybersecurity. The Google Ai and Cybersecurity Professional Certificate have prepared me for industry-ready jobs. My ultimate goal is to become a Security Analyst or forensic investigator. This role suits me because I have strong analytical abilities, persistence, eagerness to learn, a can-do attitude, problem-solving skills, communication skills to address problems and emerging threats, and previous law enforcement type background and studies. 
 
@@ -21,8 +21,8 @@ As of 2025, I am preparing to take the `Linux Foundation Certified Associate (LF
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| IT Policy Development & Implementation Incident Response Planning Playbook Development Disaster Recovery Planning Business Continuity Planning   | [ Semester Project](https://github.com/)|
-| Network Traffic Monitoring and Attack Detection | a|
+| IT Policy Development & Implementation, Incident Response Planning, Playbook Development, Disaster Recovery Plan, Business Continuity Plan  | [ Semester Project](https://github.com/)|
+| Network Traffic Monitoring, Attack Detection | a|
 | Security Automation with Shuffle SOAR         | s |
 | Autopsy, Hash Analysis, Reporting & Documenation      | S|
 | Design Phishing lab                  | S|
@@ -32,9 +32,6 @@ As of 2025, I am preparing to take the `Linux Foundation Certified Associate (LF
 
 
 # Cyber Security projects:
-
-- <b>Build a Ecommerce business and create a Cybersecurity Program and create Policies </b>
-   - [Cybersecurity & policies Semester Project](https://github.com/GageRadtke/Com470SemesterProject)
 
 
 
@@ -52,24 +49,29 @@ Mastercard Cybersecurity virtual experience program on Forage - February 2025
  
 ### Trade Tools 
 Tools that I use: 
-* Autopsy
-* Burp Suite
-* Cain & Able
-* Chronicle
-* Hash Cat
-* John The Ripper
-* Metasploit
-* Nekio
-* Nmap
-* Openvas
+* Forensics
+   * Autopsy
+* Vaurnability 
+   * Burp Suite
+   * Metasploit
+   * Nmap
+   * Nekio
+   * Openvas
+   * sn1per
+   * Tcpdump
+   * Wireshark
+* password Cracking
+   * Cain & Able
+   * Hash Cat
+   * John The Ripper
+* Monitoring Tools
+   * Chronicle
+   * Splunk
+   * Suricata
+   * Wuzah
 * SQL
-* Splunk
-* sn1per
-* Suricata
-* Tcpdump
-* Wifite
-* Wireshark
-* Wuzah
+
+
 
 
 
