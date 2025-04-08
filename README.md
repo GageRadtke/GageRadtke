@@ -44,10 +44,10 @@
 |-----------------------------------------------|----------------------------|
 | IT Policy Development & Implementation, Incident Response Planning, Playbook Development, Disaster Recovery Plan, Business Continuity Plan  | [ Semester Project](https://github.com/)|
 | Network Traffic Monitoring, Attack Detection | a|
-| Security Automation with Shuffle SOAR         | s |
+| Security Automation Lab        | s |
 | Autopsy, Hash Analysis, Reporting & Documenation      | S|
 | Design Phishing lab                  | S|
-| Scripting and Automation for Threat Mitigation | S|
+| Network open vaunrubility scan | S|
 
 <br><br>
 
